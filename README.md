@@ -7,6 +7,10 @@ Contraction de "hack" et "marathon", un hackathon est un événement lors duquel
 
 Le but est donc de coder rapidement quelque chose de malin (d'où le "hack"). Il s'agit aussi de développer de manière intensive, sans s'arrêter (d'où le marathon). C'est aussi souvent une compétition festive à l'issue de laquelle un jury choisit et récompense des gagnants.
 
+## Lancer le serveur :
+  command : - composer install
+            - php bin/console server:start
+  
 ## Créateurs :
 Ce Hackaton a été créé par 4 élèves de la wild code school :
 * [Ilya](https://github.com/Ilya108)
