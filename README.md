@@ -9,7 +9,7 @@ Le but est donc de coder rapidement quelque chose de malin (d'où le "hack"). Il
 
 ## Lancer le serveur :
   command : - composer install
-            - php bin/console server:start
+            - php bin/console server:run
   
 ## Créateurs :
 Ce Hackaton a été créé par 4 élèves de la wild code school :
